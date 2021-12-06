@@ -2,6 +2,8 @@
 
 1. Add this to your settings.json
 
+   - open settings.json (if you don't know how: https://stackoverflow.com/a/65909052/12737316)
+
    ```json
    "[xslt]": {
     "editor.defaultFormatter": "deltaxml.xslt-xpath",
