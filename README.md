@@ -22,7 +22,9 @@
 
 4. Make sure you have node installed.
    - open terminal and type `node --version` if you see something like `v17.0.1` everything is good.
-   - if not then the best way is to get brew (again to check if you have it run brew --version) and then run `brew install node`.
+   - if not then:
+     - on Mac and Linux get [brew](https://brew.sh/) (again to check if you have it run `brew --version`) and then run `brew install node`.
+     - on Windows get [chocolatey](https://community.chocolatey.org/) (again to check if you have it run `choco --version`) and do `choco install nodejs`
 
 That's it!
 
