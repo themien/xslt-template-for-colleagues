@@ -36,3 +36,4 @@ That's it!
 4. use `CMD + SHIFT + B` to run an xsl file
    - on windows do `CTRL + SHIFT + B`
 5. right click `result.html` and click "Open Preview"
+6. The `result.html` file will be overwritten each time you run any xsl file
